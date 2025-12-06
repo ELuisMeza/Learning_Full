@@ -1,0 +1,6 @@
+[submodule "learning_management"]
+	path = learning_management
+	url = https://github.com/ELuisMeza/Learning_Management.git
+[submodule "learning_front"]
+	path = learning_front
+	url = https://github.com/ELuisMeza/Learning_Front.git
